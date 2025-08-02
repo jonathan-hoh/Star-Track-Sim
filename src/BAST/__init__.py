@@ -1,0 +1,1 @@
+# BAST (Basic Autonomous Star Tracker) package
